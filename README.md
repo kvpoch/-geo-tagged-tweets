@@ -22,14 +22,14 @@ In recent news, Florida Governor Ron DeSantis is proposing legislation to perman
 
  ![Florida Word Cloud](https://github.com/kvpoch/-geo-tagged-tweets/blob/main/img/Florida.png).
 
-> [Florida Results Spreadsheet](../-geo-tagged-tweets/assets/twsearch-result-florida.csv)
+> [Florida Results Spreadsheet](https://github.com/kvpoch/-geo-tagged-tweets/blob/main/assets/twsearch-result-florida.csv)
 
 
 
 **Washington Word Cloud**
  ![Washington Word Cloud](https://github.com/kvpoch/-geo-tagged-tweets/blob/main/img/Seattle.png).
 
->[Washington Results Spreadsheet](../-geo-tagged-tweets/assets/twsearch-result-florida.csv) 
+>[Washington Results Spreadsheet](https://github.com/kvpoch/-geo-tagged-tweets/blob/main/assets/twsearch-result-seattle.csv) 
 
 
 
@@ -37,7 +37,7 @@ In recent news, Florida Governor Ron DeSantis is proposing legislation to perman
  ![Texas Word Cloud](https://github.com/kvpoch/-geo-tagged-tweets/blob/main/img/texas.png).
 
 
->[Texas Results Spreadsheet](../-geo-tagged-tweets/assets/twsearch-result-texas.csv)
+>[Texas Results Spreadsheet](https://github.com/kvpoch/-geo-tagged-tweets/blob/main/assets/twsearch-result-texas.csv)
 
 
 
